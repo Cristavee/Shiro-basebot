@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <em>Bot WhatsApp modular berbasis Multi Device. Bebas dikembangkan ulang sesuai kebutuhanmu.</em>
+  <em>Base bot WhatsApp buatan seorang amatir.</em>
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ Tetap semangat belajar & ngoding, siapa tahu dari sinilah awal perjalanan kamu s
 
 —
 
-> “Silahkan ambil saja, saya tidak mempermasalahkan credit, tapi kalau tetap dicantumkan, terimakasih ”
+> “Silahkan ambil saja, saya tidak mempermasalahkan credit, tapi kalau tetap dicantumkan, terimakasih"
 
 ---
 
