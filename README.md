@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Bot WhatsApp multifungsi berbasis Multi Device yang modular, fleksibel, dan bebas dikembangkan ulang sesuai kebutuhan Anda.</b><br>
-  <a href="#fitur">Fitur</a> • 
+ 
   <a href="#instalasi">Instalasi</a> • 
   <a href="#penggunaan">Penggunaan</a> • 
   <a href="#kontribusi">Kontribusi</a> • 
@@ -22,7 +22,7 @@
 
 ---
 
-## 🧾 Tentang
+## Tentang
 
 **Shiro Base** adalah base WhatsApp bot berbasis Multi Device yang dibuat dengan Baileys. Dibangun untuk developer yang ingin memulai project bot secara modular, efisien, dan mudah dikembangkan.  
 **Bebas Recode** — Anda bebas mengubah nama, struktur, atau fungsi bot ini sesuai keinginan tanpa perlu minta izin.
@@ -42,3 +42,4 @@ git clone https://github.com/Cristavee/Shiro-basebot
 cd Shiro-basebot
 npm install
 node .
+
