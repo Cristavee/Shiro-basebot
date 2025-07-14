@@ -1,5 +1,5 @@
 
-<h1 align="center">Shiro BaseBot 🧠</h1>
+<h1 align="center">Shiro Base</h1>
 
 <p align="center">
   <img src="https://pomf2.lain.la/f/10xr5ka8.png" alt="Shiro BaseBot Banner" width="420"/>
