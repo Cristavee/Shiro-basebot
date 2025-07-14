@@ -49,14 +49,17 @@ Tetap semangat belajar & ngoding, siapa tahu dari sinilah awal perjalanan kamu s
 - Node.js 18 ke atas
 - Git
 
-### Langkah:
+## Langkah:
 
 ```bash
 git clone https://github.com/Cristavee/Shiro-basebot.git
 cd Shiro-basebot
 npm install
 node .
+```
+---
 
+```
 global.usePairingCode = true // true = pairing code, false = QR
 
 global.bot = {
@@ -66,11 +69,17 @@ global.bot = {
   dummy: '', // nomor yang bisa saat kamu ingin mengirim debug
   codeName: '' // nama bot 2
 }
+```
 
+> Jika kamu menggunakan qr
 
-📱 Scan QR Code dari terminal:
+ ## Scan QR Code dari terminal:
 
 > WhatsApp > Perangkat Tertaut > Tautkan Perangkat
+
+> jika kamu menggunakan pairing code
+
+## Pairing code
 
 
 
@@ -92,25 +101,16 @@ Prefix bisa kamu ubah di file config.js.
 
 🙌 Kontribusi
 
-Kalau kamu ingin menambahkan fitur atau bantu perbaikan bug:
+Kalau kamu ingin menambah
 
-git checkout -b fitur-baru
-git commit -m "fitur baru: X"
-git push origin fitur-baru
-
-Lalu buat pull request ke repo ini. Kontribusimu sangat kami apresiasi!
+Lalu buat pull request ke repo ini. Kontribusimu sangat saya apresiasi!
 
 
 ---
 
 📬 Kontak
 
-📧 Email: cristianisme218@gmail.com
-
-💬 WhatsApp: Klik untuk Chat
-
-📁 Laporkan bug: GitHub Issues
-
+📧 Email: cristaveoffc@gmail.com
 
 
 ---
