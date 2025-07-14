@@ -57,6 +57,17 @@ cd Shiro-basebot
 npm install
 node .
 
+global.usePairingCode = true // true = pairing code, false = QR
+
+global.bot = {
+  name: '', // nama bot
+  owner: '6285932203366', // nomor mu
+  ownerName: '', // nama owner 
+  dummy: '', // nomor yang bisa saat kamu ingin mengirim debug
+  codeName: '' // nama bot 2
+}
+
+
 📱 Scan QR Code dari terminal:
 
 > WhatsApp > Perangkat Tertaut > Tautkan Perangkat
