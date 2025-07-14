@@ -1,0 +1,384 @@
+{
+  "users": {
+    "6285932203366@s.whatsapp.net": {
+      "coin": 100,
+      "premium": false,
+      "joinedAt": 1752493772648,
+      "exp": 60,
+      "level": 2,
+      "bio": "*Halo, my name nama gw Cristian*",
+      "isBanned": false,
+      "warn": 0,
+      "lastMessage": 1752499100920,
+      "commandCount": 0,
+      "lastClaimed": {
+        "daily": 1752493862194,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      },
+      "name": null,
+      "status": null,
+      "gameStats": {
+        "totalPlayed": 0,
+        "totalWins": 0
+      },
+      "claims": {
+        "daily": 1752493862194
+      }
+    },
+    "6282254247275:12@s.whatsapp.net": {
+      "coin": 120,
+      "premium": false,
+      "joinedAt": 1752493772739,
+      "exp": 70,
+      "level": 2,
+      "bio": "Belum disetel. Gunakan .setbio [bio]",
+      "isBanned": false,
+      "warn": 0,
+      "lastMessage": 1752499101147,
+      "commandCount": 0,
+      "lastClaimed": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      },
+      "name": null,
+      "status": null,
+      "gameStats": {
+        "totalPlayed": 0,
+        "totalWins": 0
+      }
+    },
+    "120363404857764766@newsletter": {
+      "coin": 100,
+      "premium": false,
+      "joinedAt": 1752494610283,
+      "exp": 70,
+      "level": 1,
+      "bio": "Belum disetel. Gunakan .setbio [bio]",
+      "isBanned": false,
+      "warn": 0,
+      "lastMessage": 1752497197553,
+      "commandCount": 0,
+      "lastClaimed": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      },
+      "name": null,
+      "status": null,
+      "gameStats": {
+        "totalPlayed": 0,
+        "totalWins": 0
+      }
+    },
+    "120363397996052370@newsletter": {
+      "coin": 120,
+      "premium": false,
+      "joinedAt": 1752495001632,
+      "exp": 175,
+      "level": 2,
+      "bio": "Belum disetel. Gunakan .setbio [bio]",
+      "isBanned": false,
+      "warn": 0,
+      "lastMessage": 1752498984480,
+      "commandCount": 0,
+      "lastClaimed": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      },
+      "name": null,
+      "status": null,
+      "gameStats": {
+        "totalPlayed": 0,
+        "totalWins": 0
+      }
+    },
+    "6283192638435@s.whatsapp.net": {
+      "coin": 100,
+      "premium": false,
+      "joinedAt": 1752498666809,
+      "exp": 0,
+      "level": 1,
+      "bio": "Belum disetel. Gunakan .setbio [bio]",
+      "isBanned": false,
+      "warn": 0,
+      "lastMessage": 1752498719441,
+      "commandCount": 0,
+      "lastClaimed": {
+        "daily": 0,
+        "weekly": 0,
+        "monthly": 0,
+        "yearly": 0
+      },
+      "name": null,
+      "status": null,
+      "gameStats": {
+        "totalPlayed": 0,
+        "totalWins": 0
+      }
+    }
+  },
+  "groups": {},
+  "owner": [],
+  "blacklist": [],
+  "rooms": {},
+  "faqUsers": [],
+  "faqTimeout": 86400000,
+  "messages": {
+    "3EB0806DF5C46BCA191F71": {
+      "key": {
+        "remoteJid": "6285932203366@s.whatsapp.net",
+        "fromMe": true,
+        "id": "3EB0806DF5C46BCA191F71"
+      },
+      "message": {
+        "extendedTextMessage": {
+          "text": "✅ Semua data di database berhasil direset ke default."
+        }
+      },
+      "messageTimestamp": "1752493772",
+      "status": "DELIVERY_ACK",
+      "pushName": "6282254247275:12"
+    },
+    "3EB04152E9251ADA864D72": {
+      "key": {
+        "remoteJid": "6285932203366@s.whatsapp.net",
+        "fromMe": true,
+        "id": "3EB04152E9251ADA864D72"
+      },
+      "message": {
+        "extendedTextMessage": {
+          "text": "📦 Isi Database:\n\n{\n  \"users\": {\n    \"6285932203366@s.whatsapp.net\": {\n      \"coin\": 100,\n      \"premium\": false,\n      \"joinedAt\": 1752493772648,\n      \"exp\": 10,\n      \"level\": 1,\n      \"bio\": \"Belum disetel. Gunakan .setbio [bio]\",\n      \"isBanned\": false,\n      \"warn\": 0,\n      \"lastMessage\": 0,\n      \"commandCount\": 0,\n      \"lastClaimed\": {\n        \"daily\": 0,\n        \"weekly\": 0,\n        \"monthly\": 0,\n        \"yearly\": 0\n      },\n      \"name\": null,\n      \"status\": null,\n      \"gameStats\": {\n        \"totalPlayed\": 0,\n        \"totalWins\": 0\n      }\n    },\n    \"6282254247275:12@s.whatsapp.net\": {\n      \"coin\": 100,\n      \"premium\": false,\n      \"joinedAt\": 1752493772739,\n      \"exp\": 5,\n      \"level\": 1,\n      \"bio\": \"Belum disetel. Gunakan .setbio [bio]\",\n      \"isBanned\": false,\n      \"warn\": 0,\n      \"lastMessage\": 1752493772739,\n      \"commandCount\": 0,\n      \"lastClaimed\": {\n        \"daily\": 0,\n        \"weekly\": 0,\n        \"monthly\": 0,\n        \"yearly\": 0\n      },\n      \"name\": null,\n      \"status\": null,\n      \"gameStats\": {\n        \"totalPlayed\": 0,\n        \"totalWins\": 0\n      }\n    }\n  },\n  \"groups\": {},\n  \"owner\": [],\n  \"blacklist\": [],\n  \"rooms\": {},\n  \"faqUsers\": [],\n  \"faqTimeout\": 86400000,\n  \"messages\": {\n    \"3EB0806DF5C46BCA191F71\": {\n      \"key\": {\n        \"remoteJid\": \"6285932203366@s.whatsapp.net\",\n        \"fromMe\": true,\n        \"id\": \"3EB0806DF5C46BCA191F71\"\n      },\n      \"message\": {\n        \"extendedTextMessage\": {\n          \"text\": \"✅ Semua data di database berhasil direset ke default.\"\n        }\n      },\n      \"messageTimestamp\": \"1752493772\",\n      \"status\": \"PENDING\",\n      \"pushName\": \"6282254247275:12\"\n    }\n  }\n}"
+        }
+      },
+      "messageTimestamp": "1752493788",
+      "status": "PENDING",
+      "pushName": "6282254247275:12"
+    },
+    "3EB094BE46AF192663EB11": {
+      "key": {
+        "remoteJid": "6285932203366@s.whatsapp.net",
+        "fromMe": true,
+        "id": "3EB094BE46AF192663EB11"
+      },
+      "message": {
+        "extendedTextMessage": {
+          "text": "> Bio kamu berhasil diatur:\n*Halo, my name nama gw Cristian*"
+        }
+      },
+      "messageTimestamp": "1752493837",
+      "status": "DELIVERY_ACK",
+      "pushName": "6282254247275:12"
+    },
+    "3EB0E3548F22334B23D329": {
+      "key": {
+        "remoteJid": "6285932203366@s.whatsapp.net",
+        "fromMe": true,
+        "id": "3EB0E3548F22334B23D329"
+      },
+      "message": {
+        "extendedTextMessage": {
+          "text": "✅ Kamu berhasil klaim reward *harian* sebesar *100 coin*!"
+        }
+      },
+      "messageTimestamp": "1752493862",
+      "status": "DELIVERY_ACK",
+      "pushName": "6282254247275:12"
+    },
+    "3EB011B70BCCC48E688CA5": {
+      "key": {
+        "remoteJid": "6285932203366@s.whatsapp.net",
+        "fromMe": true,
+        "id": "3EB011B70BCCC48E688CA5"
+      },
+      "message": {
+        "extendedTextMessage": {
+          "text": "Contoh: .searchplugin yt"
+        }
+      },
+      "messageTimestamp": "1752493929",
+      "status": "DELIVERY_ACK",
+      "pushName": "6282254247275:12"
+    },
+    "3EB080D4D6341E7810225F": {
+      "key": {
+        "remoteJid": "6285932203366@s.whatsapp.net",
+        "fromMe": true,
+        "id": "3EB080D4D6341E7810225F"
+      },
+      "message": {
+        "extendedTextMessage": {
+          "text": "🔍 Plugin ditemukan:\n\nhytam - Mengubah gambar menjadi hytam.\nbw - Mengubah gambar menjadi hytam.\nblackwhite - Mengubah gambar menjadi hytam."
+        }
+      },
+      "messageTimestamp": "1752493940",
+      "status": "PENDING",
+      "pushName": "6282254247275:12"
+    },
+    "3EB05D40C70B64D53D5E47": {
+      "key": {
+        "remoteJid": "6285932203366@s.whatsapp.net",
+        "fromMe": true,
+        "id": "3EB05D40C70B64D53D5E47"
+      },
+      "message": {
+        "extendedTextMessage": {
+          "text": "Usage: .cuaca [nama_kota]\nExample: .cuaca Jakarta"
+        }
+      },
+      "messageTimestamp": "1752493984",
+      "status": "DELIVERY_ACK",
+      "pushName": "6282254247275:12"
+    },
+    "3EB08D45A468308CA9AA88": {
+      "key": {
+        "remoteJid": "6285932203366@s.whatsapp.net",
+        "fromMe": true,
+        "id": "3EB08D45A468308CA9AA88"
+      },
+      "message": {
+        "extendedTextMessage": {
+          "text": "Prakiraan Cuaca di *yakutz*:\n+18°C ⛅️  →11km/h 0.0mm"
+        }
+      },
+      "messageTimestamp": "1752493991",
+      "status": "PENDING",
+      "pushName": "6282254247275:12"
+    },
+    "3EB0A0E0FE52208BAA2A93": {
+      "key": {
+        "remoteJid": "120363288070480900@g.us",
+        "fromMe": true,
+        "id": "3EB0A0E0FE52208BAA2A93"
+      },
+      "message": {
+        "imageMessage": {
+          "url": "https://mmg.whatsapp.net/o1/v/t24/f2/m232/AQOBxQj2TTjfu0os44RsPrJia4F_WdCn53m78kGHLGR34wObtNELI1vXrXPWqV84lxQ9gw4f4D8oJzOKp9ciXFSuaJS_9_N5WjicRbgJ0w?ccb=9-4&oh=01_Q5Aa2AETh2revPdSgb7RFmuzV1cqfNIBqtLafjLjI_OCzKyBIQ&oe=689C668C&_nc_sid=e6ed6c&mms3=true",
+          "mimetype": "image/jpeg",
+          "caption": "> Selamat datang di AKM,  @6285943628176!",
+          "fileSha256": "QqRF00oW6y73axZH5Z2wU3M+vWLpCp17D3MXUVaIl1w=",
+          "fileLength": "118255",
+          "height": 350,
+          "width": 700,
+          "mediaKey": "RcwQ3nLpikQj4R0pdbIz4bSRQ+qRvogcWtSzjajpsNk=",
+          "fileEncSha256": "0FGVBJjXF+4tZKcizliz6lKmH/9uHGBsFf5i3GIL77I=",
+          "directPath": "/o1/v/t24/f2/m232/AQOBxQj2TTjfu0os44RsPrJia4F_WdCn53m78kGHLGR34wObtNELI1vXrXPWqV84lxQ9gw4f4D8oJzOKp9ciXFSuaJS_9_N5WjicRbgJ0w?ccb=9-4&oh=01_Q5Aa2AETh2revPdSgb7RFmuzV1cqfNIBqtLafjLjI_OCzKyBIQ&oe=689C668C&_nc_sid=e6ed6c",
+          "mediaKeyTimestamp": "1752494208",
+          "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAQACADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAABAUCAwb/xAAnEAACAgEDAwIHAAAAAAAAAAABBAIDEQAFIQYSQRMiFCRRUmFxgf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCSiydG3JgbZRaZLwnKZriSSRk5J1e6stSv30bYpOZ8ehHj+Y5/Wle3dTq1orVXiQnCMavaOMDjJOnw3BHBHxqRB+62J0AiaazSnzO2KQkTyI0gHHj8g6C3Pp1I0OMxrMCKpWAQOIxIGeBpwdwRIADyQA+l0RrO771BRaqwqsZEy9hmCO0jzjQf/9k="
+        }
+      },
+      "messageTimestamp": "1752494208",
+      "status": "PENDING",
+      "participant": "6282254247275:12@s.whatsapp.net",
+      "pushName": "6282254247275:12"
+    },
+    "3EB030D66920F642411ADB": {
+      "key": {
+        "remoteJid": "6285932203366@s.whatsapp.net",
+        "fromMe": true,
+        "id": "3EB030D66920F642411ADB"
+      },
+      "message": {
+        "extendedTextMessage": {
+          "text": "Silahkan masukan URL yang ingin di get"
+        }
+      },
+      "messageTimestamp": "1752494754",
+      "status": "PENDING",
+      "pushName": "6282254247275:12"
+    },
+    "3EB04A3828D8B9589F5C9B": {
+      "key": {
+        "remoteJid": "6285932203366@s.whatsapp.net",
+        "fromMe": true,
+        "id": "3EB04A3828D8B9589F5C9B"
+      },
+      "message": {
+        "extendedTextMessage": {
+          "text": "> Gagal mengambil isi URL. Periksa URL atau coba lagi nanti."
+        }
+      },
+      "messageTimestamp": "1752495176",
+      "status": "PENDING",
+      "pushName": "6282254247275:12"
+    },
+    "3EB07B9E981078D66BDEDC": {
+      "key": {
+        "remoteJid": "6285932203366@s.whatsapp.net",
+        "fromMe": true,
+        "id": "3EB07B9E981078D66BDEDC"
+      },
+      "message": {
+        "extendedTextMessage": {
+          "text": "> Hasil GET dari https://api.siputzx.my.id/api/ai/blackboxai?content=hai:\n\n{\n  \"status\": true,\n  \"data\": \"Hello! How can I assist you today?\"\n}"
+        }
+      },
+      "messageTimestamp": "1752495226",
+      "status": "PENDING",
+      "pushName": "6282254247275:12"
+    },
+    "3EB0920A601E3E3C408933": {
+      "key": {
+        "remoteJid": "6285932203366@s.whatsapp.net",
+        "fromMe": true,
+        "id": "3EB0920A601E3E3C408933"
+      },
+      "message": {
+        "extendedTextMessage": {
+          "text": "> Gagal mengambil isi URL. Periksa URL atau coba lagi nanti."
+        }
+      },
+      "messageTimestamp": "1752495244",
+      "status": "DELIVERY_ACK",
+      "pushName": "6282254247275:12"
+    },
+    "3EB0B5BD81C766307D26DA": {
+      "key": {
+        "remoteJid": "120363288070480900@g.us",
+        "fromMe": true,
+        "id": "3EB0B5BD81C766307D26DA"
+      },
+      "message": {
+        "imageMessage": {
+          "url": "https://mmg.whatsapp.net/o1/v/t24/f2/m233/AQOpAEN6HMNIlwANMBKreJW-Tdy-Zq__1hDZZ_OV7UUsFPJe5UM_r7zEZ_hwsd4uH0j8QzZLk7w8rAeSZIUX9QMLZy6YLMDxd-BBrSEHqg?ccb=9-4&oh=01_Q5Aa2AGiMu798TFM2ZW5PFcPTFtU8ztlSNLBgujYshaTU9V_uQ&oe=689C7414&_nc_sid=e6ed6c&mms3=true",
+          "mimetype": "image/jpeg",
+          "caption": "> Sayonara dari AKM,  @6285800267698!",
+          "fileSha256": "+al3N/rJWqcsK9EJMCHQ+X6ZElaikpEKBIbgKVrnvHw=",
+          "fileLength": "93766",
+          "height": 350,
+          "width": 700,
+          "mediaKey": "g7JYG86DV6EgbpNHr8EGvzG5xNwnWLoz0lSrxRBZDqY=",
+          "fileEncSha256": "9AlZDAzpmXalzbYD3KxxCZnLS4Sg2oRHNv/0MYU5J6w=",
+          "directPath": "/o1/v/t24/f2/m233/AQOpAEN6HMNIlwANMBKreJW-Tdy-Zq__1hDZZ_OV7UUsFPJe5UM_r7zEZ_hwsd4uH0j8QzZLk7w8rAeSZIUX9QMLZy6YLMDxd-BBrSEHqg?ccb=9-4&oh=01_Q5Aa2AGiMu798TFM2ZW5PFcPTFtU8ztlSNLBgujYshaTU9V_uQ&oe=689C7414&_nc_sid=e6ed6c",
+          "mediaKeyTimestamp": "1752498500",
+          "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAQACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIG/8QAIxAAAgICAgEEAwAAAAAAAAAAAQIDBAURACEGEiJEcRQxQf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCqlanBjqYGMglLV0dnMakkkbOyeILQoHZbH1dBS2lrqWOhvQ6/Z4FjvJ60dGtFOGDoqxe0daHWyePLkaI+dSP3Mp4EyY3Huvp/Arel1VtGEKy7G9HoaI4Tk/HaRguWVjKERNIAh0qkDfQ4w2Rot86kPqZRzO53yCCWrYq1ixLewuCPSR/dcD//2Q=="
+        }
+      },
+      "messageTimestamp": "1752498500",
+      "status": "PENDING",
+      "participant": "6282254247275:12@s.whatsapp.net",
+      "pushName": "6282254247275:12"
+    },
+    "3EB03EDBDFAF88DC70AB70": {
+      "key": {
+        "remoteJid": "6285932203366@s.whatsapp.net",
+        "fromMe": true,
+        "id": "3EB03EDBDFAF88DC70AB70"
+      },
+      "message": {
+        "extendedTextMessage": {
+          "text": "Sedang membuat backup script bot Anda. Mohon tunggu..."
+        }
+      },
+      "messageTimestamp": "1752499100",
+      "status": "PENDING",
+      "pushName": "6282254247275:12"
+    }
+  }
+}
