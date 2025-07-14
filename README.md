@@ -23,7 +23,7 @@
 ---
 
 
-## 🛠️ Instalasi
+## Instalasi
 
 ### Prasyarat:
 - Node.js v18 ke atas
