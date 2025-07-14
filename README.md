@@ -22,13 +22,6 @@
 
 ---
 
-## Demo
-<p align="center">
-  <img src="https://via.placeholder.com/500x250?text=Preview+Bot+Menu" alt="Preview Menu" />
-</p>
-
----
-
 
 ## 🛠️ Instalasi
 
