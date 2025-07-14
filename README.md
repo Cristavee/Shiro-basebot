@@ -1,6 +1,10 @@
-<h1 align="center">🤖 Shiro WhatsApp Bot</h1>
+<h1 align="center">Shiro Multi Devices Base</h1>
 
 <p align="center">
+  <img src="https://pomf2.lain.la/f/10xr5ka8.png" alt="Shiro Basebot" />
+</p>
+
+
   <b>Bot WhatsApp multifungsi yang modular dan bisa dikembangkan sesuka hati</b><br>
   <a href="#fitur">Fitur</a> • 
   <a href="#instalasi">Instalasi</a> • 
@@ -18,7 +22,7 @@
 
 ---
 
-## 📸 Demo
+## Demo
 <p align="center">
   <img src="https://via.placeholder.com/500x250?text=Preview+Bot+Menu" alt="Preview Menu" />
 </p>
