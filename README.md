@@ -39,7 +39,7 @@ Tetap semangat belajar & ngoding, siapa tahu dari sinilah awal perjalanan kamu s
 
 —
 
-> “Bukan tentang seberapa cepat kamu bisa bikin bot, tapi seberapa besar kamu mau berkembang.”
+> “Silahkan ambil saja, saya tidak mempermasalahkan credit, tapi kalau tetap dicantumkan, terimakasih ”
 
 ---
 
@@ -60,6 +60,8 @@ node .
 📱 Scan QR Code dari terminal:
 
 > WhatsApp > Perangkat Tertaut > Tautkan Perangkat
+
+
 
 
 
