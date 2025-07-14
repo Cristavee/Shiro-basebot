@@ -75,7 +75,7 @@ node .
 .stiker    ➜ Ubah gambar jadi stiker
 
 Prefix bisa kamu ubah di file config.js.
-
+```
 
 ---
 
@@ -107,19 +107,3 @@ Lalu buat pull request ke repo ini. Kontribusimu sangat kami apresiasi!
 <p align="center">
   <i>Dibuat dengan penuh semangat oleh <strong>Cristavee</strong><br>Base ini <strong>bebas direcode</strong> dan dikembangkan ulang oleh siapa pun.</i>
 </p>
-```
----
-
-Mau langsung saya buatkan file README.md-nya?
-
-Kalau kamu bilang “iya”, nanti saya kirim file .md atau bantu push langsung ke repo Shiro-basebot kamu.
-
-Silakan pilih:
-
-💾 "Buatkan file .md aja", atau
-
-🚀 "Langsung push ke repo saya"
-
-
-Mau pilih yang mana?
-
