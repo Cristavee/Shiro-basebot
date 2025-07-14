@@ -23,6 +23,9 @@
 
 ---
 
+# Pesan
+
+---
 ## Tentang
 
 **Shiro Base** adalah base WhatsApp bot berbasis Multi Device yang dibuat dengan Baileys. Dibangun untuk developer yang ingin memulai project bot secara modular, efisien, dan mudah dikembangkan.  
