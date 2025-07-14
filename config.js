@@ -5,17 +5,17 @@ global.usePairingCode = true // true = pairing code, false = QR
 
 global.bot = {
   name: 'Shiro',
-  owner: '6285932203366',
-  ownerName: 'Cristave',
-  dummy: '120363396283957684',
+  owner: '',
+  ownerName: '',
+  dummy: '',
   codeName: 'Shirotaka'
 }
 global.thumb = 'https://pomf2.lain.la/f/10xr5ka8.png'
 
 // ─── Sticker ──────────────────────────────────
 
-global.pack = 'Shiro Sticker'
-global.author = 'Cristave Tumis'
+global.pack = ''
+global.author = ''
 
 // ─── Daftar Owner ──────────────────────────────────
 global.owner = [
@@ -48,8 +48,8 @@ global.msg = {
 }
 
 // ─── API Key ───────────────────────────────────────
-global.lolhuman = 'f2372fcca4c31f0c6a2f8d9a' // ganti jika perlu
-global.beta = 'Btz-hmKeJ'
+
+
 // ─── Footer ────────────────────────────────────────
 global.footer = '`Shirotaka`'
 
