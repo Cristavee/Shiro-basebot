@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Bot WhatsApp multifungsi berbasis Multi Device yang modular, fleksibel, dan bebas dikembangkan ulang sesuai kebutuhan Anda.</b><br>
- 
+ <p align="center">
   <a href="#instalasi">Instalasi</a> • 
   <a href="#penggunaan">Penggunaan</a> • 
   <a href="#kontribusi">Kontribusi</a> • 
